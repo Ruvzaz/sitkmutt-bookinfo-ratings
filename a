@@ -1,0 +1,20 @@
+[1mdiff --cc README.md[m
+[1mindex 4f08049,7e59eba..0000000[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@@ -6,8 -6,6 +6,14 @@@[m [mRating service has been developed on No[m
+  [m
+  MIT License[m
+  [m
+[32m++<<<<<<< HEAD[m
+[32m +## How to run[m
+[32m +[m
+[32m +```bash[m
+[32m +node ratings.js 8080[m
+[32m +```[m
+[32m++=======[m
+[32m+ ## Website[m
+[32m+ [m
+[31m -[Opsta (Thailand) Co., Ltd.](https://www.opsta.co.th)[m
+[32m++[Opsta (Thailand) Co., Ltd.](https://www.opsta.co.th)[m
+[32m++>>>>>>> 8d721fa55c8935932324a21b4c5f9764345c0206[m
